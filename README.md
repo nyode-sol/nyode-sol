@@ -5,7 +5,7 @@
 - 📫 www.nyode.net
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Coding since 1996 (Turbo Pascal), since then REPEAT UNTIL KEY PRESSED
-CLRSCR
+- CLRSCR
 
 <!---
 nyode-sol/nyode-sol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
