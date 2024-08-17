@@ -4,7 +4,7 @@
 - 🌱 Learning Spring anew
 - 📫 www.nyode.net
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Coding since 1996 (Turbo Pascal), since then REPEAT UNTIL KEY PRESSED
+- ⚡ Fun fact: Coding since 1994 (Turbo Pascal), since then REPEAT UNTIL KEY PRESSED
 - CLRSCR
 
 <!---
